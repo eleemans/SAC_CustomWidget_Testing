@@ -11,7 +11,7 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "net-expertum-helloWorld1",
+			"tag": "net.expertum.helloWorld1",
 			"url": "https://eleemans.github.io/SAC_CustomWidget_Testing/webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
